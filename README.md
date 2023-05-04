@@ -1,2 +1,2 @@
 # reactlearning
-introduction to react project
+introduction to react projects
